@@ -2,5 +2,5 @@
 # defaults file for tomcat_aws
 region: us-east-1
 instance_type: t2.micro
-ami: ami-098bb5d92c8886ca1
+ami: ami-011b3ccf1bd6db744
 keypair: jenkins_ubu
